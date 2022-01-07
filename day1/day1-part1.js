@@ -1,9 +1,5 @@
 // The following program contains an async function that extracts the contents of the 'depths.txt' file. Source: https://stackoverflow.com/questions/66973034/how-to-set-variable-value-inside-read-file-function-and-use-it-outside-in-node-j
 
-// console.log("hello the program is starting now");
-
-// import fs, { readFile } from 'fs';
-
 // readFile('depths.txt', 'utf-8', (err, data) => {
 //     if (err) throw err;
 //     console.log(data);
